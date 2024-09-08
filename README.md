@@ -29,6 +29,7 @@
 ```bash
 pip install hazm pyspellchecker transformers gensim langdetect networkx matplotlib seaborn
 
+```
 
 
 نحوه استفاده
@@ -56,7 +57,7 @@ if __name__ == "__main__":
     visualize_data(result)
 
 
-    توضیحات
+   # توضیحات
 
 	•	توکن‌سازی و نرمال‌سازی: متن به کلمات توکن شده و نرمالیزه می‌شود.
 	•	تحلیل احساسات: احساسات متن با استفاده از مدل‌های BERT فارسی تحلیل می‌شود.
